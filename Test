@@ -1,0 +1,7 @@
+echo "# Khad" >> README.md
+git init
+git add README.md
+git commit -m "Commit 1"
+git branch -M main
+git remote add origin https://github.com/Khad001/Khad.git
+git push -u origin main
